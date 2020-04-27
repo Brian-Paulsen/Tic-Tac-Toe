@@ -1,5 +1,6 @@
 # TIC-TAC-TOE
-This project creates a tic-tac-toe game with an AI player. The AI randomly picks based on the rules written below.
+This project creates a tic-tac-toe game with an AI player. The AI randomly picks based on the rules written below. I
+originally hacked together this project during my freshmen year, so the code quality is less than great.
 
 ## AI Rules
 The AI makes its decisions according to the following:
